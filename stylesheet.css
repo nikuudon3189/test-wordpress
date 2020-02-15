@@ -1,0 +1,259 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html{
+	padding: 0;
+	margin: 0;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+
+body.jumbotron{
+	padding: 0;
+	background-color: #030841;
+}
+header{
+	
+}
+.header-top{
+	padding: 0;
+	
+}
+.header-top{
+	background-image: url("images/roadrece_3.jpg");
+	background-size: cover;
+    height: 739px;
+}
+.header-info{
+    
+}
+
+.logo-img img{
+	width: 473px;
+	height: 71px;
+}
+.header-info ul{
+	list-style: none;
+}
+.li1{
+	font-size: 27px;
+	font-family: "TA-kai_regular";
+	margin-top: 15px;
+}
+.li2{
+	margin-top: 15px;
+	font-size: 27px;
+	font-family: "TA-kai_regular";
+}
+.li1 a,.li2 a{
+	color: #E8E8E8;
+	padding: 0 20px;
+}
+.header-info h1{
+	color: #E8E8E8;
+	font-size: 28px;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	margin-top: 267px;
+}
+.header-span{
+	font-size: 50px !important;
+}
+.jumbotron .first-message{
+	padding: 0;
+	margin: 0;
+	background-color: #030841;
+	
+}
+.message-content{
+	width: 100%;
+	height: 60px;
+	
+}
+.message-content h2{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	font-size: 27px;
+	margin: auto auto;
+}
+
+
+.table-active{
+	padding: 0;
+}
+.active{
+	padding: 0;
+	background-image: url("images/roadrece_1.jpg");
+	background-position: 10% 30%;
+	background-size: cover;
+	height: 355px;
+}
+.active-img h2{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	font-size: 61px;
+}
+.active-img p{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	font-size: 20px;
+	margin: auto auto;
+}
+.content1 img, .content2 img, .content3 img{
+	width: 324px;
+	height: 197px;
+	margin-top: 70px;
+}
+.content1 h3, .content2 h3, .content3 h3{
+	margin-top: 24px;
+	color: #E8E8E8;
+	font-family: "Arial";
+	text-align: left;
+	font-size: 37px;
+}
+.road-span{
+	color: #5C8BF7;
+	padding-left: 11px;
+	border-left: #5C8BF7 solid 2px;
+}
+.track-span{
+	color: #F15CF7;
+	padding-left: 11px;
+	border-left: #F15CF7 solid 2px;
+}
+.cyclo-span{
+	color: #F75C86;
+	padding-left: 11px;
+	border-left: #F75C86 solid 2px;
+}
+.content1, .content2, .content3{
+	display: block;
+	margin: 0 auto;
+}
+.content1 p, .content2 p, .content3 p{
+	margin-top: 24px;
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: left;
+	font-size: 20px;
+	font-feature-settings:"palt";
+}
+.margin-logo{
+	margin-top: 120px;
+	margin-bottom: 120px;
+}
+.margin-logo img{
+	display: block;
+	margin: 0 auto;
+	width: 78px;
+	height: 78px;
+}
+
+.blog-topic h2{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	font-size: 61px;
+}
+.blog-topic p{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	font-size: 20px;
+}
+.surch-blog{
+	margin-right: 0!important;
+}
+.input-group-btn{
+	margin-right: auto;
+}
+.blog-topic input{
+	display: block;
+	margin: 0 auto;
+}
+.blog-contents{
+	margin-top: 59px;
+}
+.blog-content1{
+	background-color: #ffffff;
+	height: 197px;
+	
+}
+.blog-content2{
+	background-color: #ffffff;
+	height: 197px;
+	}
+.blog-content3{
+	background-color: #ffffff;
+	height: 197px;
+	
+}
+.blog-content4{
+	background-color: #ffffff;
+	height: 197px;
+	
+}
+.blog-content5{
+	background-color: #ffffff;
+	height: 197px;
+	
+}
+.blog-content6{
+	background-color: #ffffff;
+	height: 197px;
+	
+}
+
+
+.contact h2{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: center;
+	font-size: 61px;
+}
+
+.form-group label{
+	color: #E8E8E8;
+	font-family: "TA-kai_regular";
+	text-align: left;
+	font-size: 20px;
+	padding: 0;
+	margin-bottom: 7px;
+}
+.submit-bottun{
+	background-color: #FF5562;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	font-family: "TA-kai_regular";
+}
+.club-logo2{
+	display: block;
+	width: 473px;
+	height: 71px;
+	margin: 0 auto;
+}
+.footer-img p{
+	color: #ffffff;
+	font-size: 20px;
+	font-family: "PT Serif";
+	text-align: center;
+	margin-top: 7px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
